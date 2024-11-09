@@ -1,5 +1,7 @@
 ## Hello, world!
 
+[English](README-en.md) | 한국어
+
 ### 🎓 Education
 
 - (2023.03 ~ 2026.02) 한양대학교 ERICA 컴퓨터학부
