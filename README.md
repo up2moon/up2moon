@@ -16,11 +16,13 @@
 - (2025.01.xx ~ xx) TOPCIT 성적우수자 해외연수(LA, Las Vegas - 기업탐방 및 CES 2025 관람)
 - (2023.01.03 ~ 12) TOPCIT 성적우수자 해외연수(LA, Las Vegas - 기업탐방 및 CES 2023 관람)
 
+### 📚 Projects
+
 ### 🏆 Awards
 
 - (2024) 제21회 TOPCIT 정기평가 성적우수자(대학생 1위) [**과학기술정보통신부장관상, 한양대학교 총장상**] [링크](https://www.ajunews.com/view/20240717170622813)
 - (2023) 제19회 TOPCIT 정기평가 성적우수자(공군 2위) [**공군본부 정보화기획참모부장상**]
-- (2023) 학점은행제 학위취득자 우수 학습사례 수상 [**국가평생교육진흥원장상**] [링크](https://www.cb.or.kr/ebook/2022/collection/index.html?startpage=24)
+- (2023) 학점은행제 학위취득자 우수 학습사례 수상 [**국가평생교육진흥원장상**] [링크](https://www.cb.or.kr/ebook/2022/collection/index.html?startpage=25&doublepage=false)
 - (2022) 제18회 TOPCIT 정기평가 성적우수자(공군 1위) [**공군참모총장상**]
 - (2022) 제44회 공군 정보통신경연대회 해킹방어 부문 우수 [**공군교육사령관상**]
 
