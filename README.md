@@ -16,8 +16,6 @@
 - (2025.01.xx ~ xx) TOPCIT 성적우수자 해외연수(LA, Las Vegas - 기업탐방 및 CES 2025 관람)
 - (2023.01.03 ~ 12) TOPCIT 성적우수자 해외연수(LA, Las Vegas - 기업탐방 및 CES 2023 관람)
 
-### 📚 Projects
-
 ### 🏆 Awards
 
 - (2024) 제21회 TOPCIT 정기평가 성적우수자(대학생 1위) [**과학기술정보통신부장관상, 한양대학교 총장상**] [링크](https://www.ajunews.com/view/20240717170622813)
@@ -40,3 +38,5 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=up2moon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=up2moon&layout=compact&hide=ini,swig,objective-c,smali,nginx%20configuration%20file,typescript,php,rust,makefile,git,git%20config,cshtml,csv,text,markdown,binary)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fup2moon%2Fhit-counter&count_bg=%234491E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

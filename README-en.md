@@ -38,3 +38,5 @@ English | [한국어](README.md)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=up2moon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=up2moon&layout=compact&hide=ini,swig,objective-c,smali,nginx%20configuration%20file,typescript,php,rust,makefile,git,git%20config,cshtml,csv,text,markdown,binary)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fup2moon%2Fhit-counter&count_bg=%234491E9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
