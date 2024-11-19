@@ -13,7 +13,7 @@
 
 ### ✈️ International Experience
 
-- (2025.01.xx ~ xx) TOPCIT 성적우수자 해외연수(LA, Las Vegas - 기업탐방 및 CES 2025 관람)
+- (2025.01.06 ~ 11) TOPCIT 성적우수자 해외연수(Las Vegas - CES 2025 관람)
 - (2023.01.03 ~ 12) TOPCIT 성적우수자 해외연수(LA, Las Vegas - 기업탐방 및 CES 2023 관람)
 
 ### 🏆 Awards

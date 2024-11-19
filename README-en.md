@@ -13,7 +13,7 @@ English | [한국어](README.md)
 
 ### ✈️ International Experience
 
-- (2025.01.xx ~ xx) TOPCIT High Scorer Overseas Training(Los Angeles, Las Vegas - Corporate Visits and CES 2025 Attendance)
+- (2025.01.06 ~ 11) TOPCIT High Scorer Overseas Training(Las Vegas - CES 2025 Attendance)
 - (2023.01.03 ~ 12) TOPCIT High Scorer Overseas Training(Los Angeles, Las Vegas - Corporate Visits and CES 2023 Attendance)
 
 ### 🏆 Awards
