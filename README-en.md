@@ -5,7 +5,7 @@ English | [한국어](README.md)
 ### 🎓 Education
 
 - (2023.03 ~ 2026.02) Hanyang University ERICA, Division of Computer Science
-- (2021.12 ~ 2023.02) Academic Credit Bank System, Major in Computer Engineering
+- (2021.12 ~ 2023.02) Academic Credit Bank System, Bachelor of Engineering in Computer Engineering
 
 ### 💼 Work Experience
 
