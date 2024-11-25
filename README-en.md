@@ -13,16 +13,20 @@ English | [한국어](README.md)
 
 ### ✈️ International Experience
 
-- (2025.01.06 ~ 11) TOPCIT High Scorer Overseas Training(Las Vegas - CES 2025 Attendance)
-- (2023.01.03 ~ 12) TOPCIT High Scorer Overseas Training(Los Angeles, Las Vegas - Corporate Visits and CES 2023 Attendance)
+- (2025.01.06 ~ 11) TOPCIT Top Scorer Overseas Training(Las Vegas - CES 2025 Attendance)
+- (2023.01.03 ~ 12) TOPCIT Top Scorer Overseas Training(Los Angeles, Las Vegas - Corporate Visits and CES 2023 Attendance)
 
 ### 🏆 Awards
 
-- (2024) 21st TOPCIT Regular Evaluation High Scorer(1st Place among University Students) [**Minister of Science and ICT Award, Hanyang University President's Award**] [Link](https://www.ajunews.com/view/20240717170622813)
-- (2023) 19th TOPCIT Regular Evaluation High Scorer(2nd Place in the ROK Air Force) [**ROK Air Force Headquarters Chief of Information and Planning Staff Award**]
+- (2024) 21st TOPCIT Regular Evaluation Top Scorer(1st Place among University Students) [**Minister of Science and ICT Award, Hanyang University President's Award**] [Link](https://www.ajunews.com/view/20240717170622813)
+- (2023) 19th TOPCIT Regular Evaluation Top Scorer(2nd Place in the ROK Air Force) [**ROK Air Force Headquarters Chief of Information and Planning Staff Award**]
 - (2023) Academic Credit Bank System Outstanding Learner [**President of National Institute for Lifelong Education Award**] [Link](https://www.cb.or.kr/ebook/2022/collection/index.html?startpage=25&doublepage=false)
-- (2022) 18st TOPCIT Regular Evaluation High Scorer(1st Place in the ROK Air Force) [**Chief of Staff of the ROK Air Force Award**]
+- (2022) 18st TOPCIT Regular Evaluation Top Scorer(1st Place in the ROK Air Force) [**Chief of Staff of the ROK Air Force Award**]
 - (2022) Excellence in Cyber Defense, 44th Air Force Information and Communications Competition [**ROK Air Force Education and Training Command Award**]
+
+### 🚩 Extracurricular Activities
+
+- (2024.11.23 ~ 24) Participated in the 2024 SW Together Hackathon as a university student mentor, providing time coaching and judging the final round [**Hosted by the Ministry of Science and ICT, Organized by the Korea Foundation for Science and Creativity**]
 
 ### 📜 Certificates
 
