@@ -4,38 +4,39 @@ English | [한국어](README.md)
 
 ### 🎓 Education
 
-- (2023.03 ~ 2026.02) Hanyang University ERICA, Division of Computer Science
-- (2021.12 ~ 2023.02) Academic Credit Bank System, Bachelor of Engineering in Computer Engineering
+- (March 2023 – February 2026) Hanyang University ERICA, Division of Computer Science
+- (December 2021 – February 2023) Academic Credit Bank System, Bachelor of Engineering in Computer Engineering
 
 ### 💼 Work Experience
 
-- (2019.10 ~ 2023.10) Technical Sergeant in Information and Communications, ROK Air Force Logistics Command
+- (October 2019 – October 2023) Technical Sergeant in Information and Communications, ROK Air Force Logistics Command
 
 ### ✈️ International Experience
 
-- (2025.01.06 ~ 11) TOPCIT Top Scorer Overseas Training(Las Vegas - CES 2025 Attendance)
-- (2023.01.03 ~ 12) TOPCIT Top Scorer Overseas Training(Los Angeles, Las Vegas - Corporate Visits and CES 2023 Attendance)
+- (January 6–11, 2025) TOPCIT Top Scorer Overseas Training (Las Vegas - CES 2025 Attendance)
+- (January 3–12, 2023) TOPCIT Top Scorer Overseas Training (Los Angeles, Las Vegas - Corporate Visits and CES 2023 Attendance)
 
 ### 🏆 Awards
 
-- (2024) 21st TOPCIT Regular Evaluation Top Scorer(1st Place among University Students) [**Minister of Science and ICT Award, Hanyang University President's Award**] [Link](https://www.ajunews.com/view/20240717170622813)
-- (2023) 19th TOPCIT Regular Evaluation Top Scorer(2nd Place in the ROK Air Force) [**ROK Air Force Headquarters Chief of Information and Planning Staff Award**]
-- (2023) Academic Credit Bank System Outstanding Learner [**President of National Institute for Lifelong Education Award**] [Link](https://www.cb.or.kr/ebook/2022/collection/index.html?startpage=25&doublepage=false)
-- (2022) 18th TOPCIT Regular Evaluation Top Scorer(1st Place in the ROK Air Force) [**Chief of Staff of the ROK Air Force Award**]
-- (2022) Excellence in Cyber Defense, 44th Air Force Information and Communications Competition [**ROK Air Force Education and Training Command Award**]
+- (2024) 2024 HY-THON (University-Wide Alliance Hackathon), 1st Place [**Hanyang Univercity ERICA College of Computing Dean's Award**]
+- (2024) 21st TOPCIT Regular Evaluation, Top Scorer (1st Place among University Students) [**Minister of Science and ICT Award, Hanyang University President's Award**] [Link](https://www.ajunews.com/view/20240717170622813)
+- (2023) 19th TOPCIT Regular Evaluation, Top Scorer (2nd Place in the ROK Air Force) [**ROK Air Force Chief of Information and Planning Staff Award**]
+- (2023) Outstanding Learning Case for 2023 Academic Credit Bank System Degree Recipients [**National Institute for Lifelong Education President's Award**] [Link](https://www.cb.or.kr/ebook/2022/collection/index.html?startpage=25&doublepage=false)
+- (2022) 18th TOPCIT Regular Evaluation, Top Scorer (1st Place in the ROK Air Force) [**ROK Air Force Chief of Staff Award**]
+- (2022) 44th Air Force Information and Communications Competition, Excellence in Cyber Defense [**ROK Air Force Education and Training Commander's Award**]
 
 ### 🚩 Extracurricular Activities
 
-- (2024.11.23 ~ 24) Participated in the 2024 SW Together Hackathon as a university student mentor, providing time coaching and judging the final round [**Hosted by the Ministry of Science and ICT, Organized by the Korea Foundation for Science and Creativity**]
+- (November 23-24, 2024) Served as a university student mentor at the 2024 SW Together Hackathon, offering time coaching and judging in the final round [**Hosted by the Ministry of Science and ICT, Organized by the Korea Foundation for Science and Creativity**]
 
 ### 📜 Certificates
 
-- (2023.10) TOPCIT Level 4
-- (2023.07) SQL Developer(SQLD)
-- (2023.05) Engineer Information Security
-- (2022.10) TOEIC 955(LC 475 / RC 480)
-- (2022.06) Engineer Computer System Application
-- (2021.06) Engineer Information Processing
+- (October 2023) TOPCIT Level 4
+- (July 2023) SQL Developer (SQLD)
+- (May 2023) Engineer Information Security
+- (October 2022) TOEIC 955 (LC 475 / RC 480)
+- (June 2022) Engineer Computer System Application
+- (June 2021) Engineer Information Processing
 
 <br>
 
