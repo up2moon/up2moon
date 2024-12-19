@@ -4,12 +4,12 @@ English | [한국어](README.md)
 
 ### 🎓 Education
 
-- (March 2023 – February 2026) Hanyang University ERICA, Division of Computer Science
-- (December 2021 – February 2023) Academic Credit Bank System, Bachelor of Engineering in Computer Engineering
+- (March 2023–February 2026) Hanyang University ERICA, Division of Computer Science
+- (December 2021–February 2023) Academic Credit Bank System, Bachelor of Engineering in Computer Engineering
 
 ### 💼 Work Experience
 
-- (October 2019 – October 2023) Technical Sergeant in Information and Communications, ROK Air Force Logistics Command
+- (October 2019–October 2023) Technical Sergeant in Information and Communications, ROK Air Force Logistics Command
 
 ### ✈️ International Experience
 
@@ -18,6 +18,7 @@ English | [한국어](README.md)
 
 ### 🏆 Awards
 
+- (2024) 22nd TOPCIT Regular Evaluation, Top Scorer (1st Place at Hanyang University) [**Hanyang University President's Award**]
 - (2024) 2024 HY-THON (University-Wide Alliance Hackathon), 1st Place [**Hanyang Univercity ERICA College of Computing Dean's Award**]
 - (2024) 21st TOPCIT Regular Evaluation, Top Scorer (1st Place among University Students) [**Minister of Science and ICT Award, Hanyang University President's Award**] [Link](https://www.ajunews.com/view/20240717170622813)
 - (2023) 19th TOPCIT Regular Evaluation, Top Scorer (2nd Place in the ROK Air Force) [**ROK Air Force Chief of Information and Planning Staff Award**]
