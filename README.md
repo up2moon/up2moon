@@ -32,7 +32,7 @@
   - `2023 Outstanding Learner Award`, Academic Credit Bank System [**Link**](https://www.cb.or.kr/ebook/2022/collection/index.html?startpage=25&doublepage=false)
 - 2022
   - **1st Place**, `18th TOPCIT`, Air Force Division
-  - **3rd Place**, `44th Air Force ICT Competition Cyber Defense Division (CTF)`
+  - **3rd Place**, `44th Air Force ICT Competition (Cyber Defense Division, CTF)`
 
 ### 🚩 Activities
 
