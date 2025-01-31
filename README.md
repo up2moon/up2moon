@@ -7,7 +7,7 @@
 
 ### 💼 Work Experience
 
-- **Information and Communications NCO**, Logistics Command, ROK Air Force _(Oct 2019 – Oct 2023)_
+- **NCO in Cyber & Information Systems Operations**, Logistics Command, ROK Air Force _(Oct 2019 – Oct 2023)_
   - Developed web and IoT applications for internet and intranet environments
   - Conducted vulnerability assessments and implemented remediation measures
 
