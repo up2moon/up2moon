@@ -4,7 +4,7 @@
 
 - Software Developer
 - Security Researcher
-- [Baron of the Principality of Sealand](Registration%20Deed.pdf)
+- [Baron of the Principality of Sealand](Registration%20Deed.jpg)
 
 ### 🎓 Education
 
