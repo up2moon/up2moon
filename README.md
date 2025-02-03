@@ -1,5 +1,11 @@
 ## Hello, world!
 
+### 👤 Who I Am
+
+Software Developer  
+Security Researcher  
+[Baron of the Principality of Sealand](Registration%20Deed.pdf)
+
 ### 🎓 Education
 
 - B.S. in Computer Science, Hanyang University ERICA _(Mar 2023 – Feb 2026 (Expected))_
