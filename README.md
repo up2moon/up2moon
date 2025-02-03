@@ -2,9 +2,9 @@
 
 ### 👤 Who I Am
 
-Software Developer  
-Security Researcher  
-[Baron of the Principality of Sealand](Registration%20Deed.pdf)
+- Software Developer
+- Security Researcher
+- [Baron of the Principality of Sealand](Registration%20Deed.pdf)
 
 ### 🎓 Education
 
