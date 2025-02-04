@@ -23,7 +23,7 @@
 
   - Attended CES 2025
 
-- **TOPCIT Top Scorer Overseas Training – Log Angeles & Las Vegas** _(Jan 3–12, 2023)_
+- **TOPCIT Top Scorer Overseas Training – Los Angeles & Las Vegas** _(Jan 3–12, 2023)_
   - Visited tech companies and attended CES 2023
 
 ### 🏆 Awards
