@@ -61,10 +61,10 @@
 
 ### 📜 Certificates & Qualifications
 
+- TOEIC 965 _(Jan 2025)_
 - TOPCIT 760/1000 – Level 4 _(Oct 2023)_
 - SQL Developer _(Jul 2023)_
 - Engineer Information Security _(May 2023)_
-- TOEIC 955 _(Oct 2022)_
 - Engineer Computer System Application _(Jun 2022)_
 - Engineer Information Processing _(Jun 2021)_
 
