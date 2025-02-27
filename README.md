@@ -44,17 +44,9 @@
 - **Algorithm Society "0&1"** _(Mar 2024 – Dec 2024)_
   - Participated in weekly algorithm study sessions
 
-### 📘 Studying
-
-- [OSED](https://www.offsec.com/courses/exp-301) (OffSec Exploit Developer) course _(Dec 2024 - Present)_
-  - Bypassing security mechanisms such as ASLR and DEP
-  - Exploiting SEH overwrites and format string attacks
-  - Developing and optimizing custom shellcode
-  - Implementing ROP chains and payload decoders
-  - Detecting and analyzing vulnerabilities through reverse engineering and fuzzing
-
 ### 📜 Certificates & Qualifications
 
+- [OffSec Exploit Developer (OSED)](https://credentials.offsec.com/8b8c6dff-790b-4d09-ba86-aa9e519e5b71#acc.q2niwjfm) _(Feb 2025)_
 - TOEIC 970 _(Feb 2025)_
 - TOPCIT 760/1000 – Level 4 _(Oct 2023)_
 - SQL Developer _(Jul 2023)_
