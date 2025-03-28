@@ -41,7 +41,7 @@
   - Offered technical coaching sessions for middle and high school participants
   - Served as a judge in the final round
 
-- **0&1, Algorithm Society** _(Mar 2024 – Dec 2024)_
+- **Algorithm Society 0&1, Hanyang University** _(Mar 2024 – Dec 2024)_
   - Participated in weekly algorithm study sessions
 
 ### 📜 Certificates & Qualifications
