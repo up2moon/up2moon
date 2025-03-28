@@ -24,24 +24,24 @@
 
 - 2024
   - **1st Place at Hanyang University**, `22nd TOPCIT`, University Division
-  - **1st Place**, `2024 HY-THON` (University-Wide Alliance Hackathon)
+  - **1st Place**, `2024 HY-THON` (Intra-University Alliance Hackathon)
   - **1st Place**, `21st TOPCIT`, University Division, `Minister of Science and ICT Award`🎖️ [**Link**](https://www.ajunews.com/view/20240717170622813)
 - 2023
-  - `2023 Outstanding Staff Award`, Air Force Logistics Command
+  - `Outstanding Staff Award`, Air Force Logistics Command
   - **2nd Place**, `19th TOPCIT`, Air Force Division
-  - `2023 Outstanding Learner Award`, Academic Credit Bank System [**Link**](https://www.cb.or.kr/ebook/2022/collection/index.html?startpage=25&doublepage=false)
+  - `Outstanding Learner Award`, Academic Credit Bank System [**Link**](https://www.cb.or.kr/ebook/2022/collection/index.html?startpage=25&doublepage=false)
 - 2022
   - **1st Place**, `18th TOPCIT`, Air Force Division
-  - **3rd Place**, `44th Air Force ICT Competition (Cyber Defense Division, CTF)`
+  - **3rd Place**, `44th Air Force ICT Competition (CTF)`
 
 ### 🚩 Activities
 
-- **2024 SW Together Hackathon Student Mentor** _(Nov 23–24, 2024)_
+- **Student Mentor, 2024 SW Together Hackathon** _(Nov 23–24, 2024)_
 
   - Offered technical coaching sessions for middle and high school participants
   - Served as a judge in the final round
 
-- **Algorithm Society "0&1"** _(Mar 2024 – Dec 2024)_
+- **0&1, Algorithm Society** _(Mar 2024 – Dec 2024)_
   - Participated in weekly algorithm study sessions
 
 ### 📜 Certificates & Qualifications
