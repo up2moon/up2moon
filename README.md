@@ -46,9 +46,9 @@
 
 ### 📜 Certificates & Qualifications
 
+- TOPCIT 875/1000 – Level 5 _(May 2025)_
 - [OffSec Exploit Developer (OSED)](https://credentials.offsec.com/8b8c6dff-790b-4d09-ba86-aa9e519e5b71#acc.q2niwjfm) _(Feb 2025)_
 - TOEIC 985 _(Feb 2025)_
-- TOPCIT 760/1000 – Level 4 _(Oct 2023)_
 - SQL Developer _(Jul 2023)_
 - Engineer Information Security _(May 2023)_
 - Engineer Computer System Application _(Jun 2022)_
