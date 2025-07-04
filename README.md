@@ -22,6 +22,8 @@
 
 ### 🏆 Awards
 
+- 2025
+  - **1st Place**, `23rd TOPCIT`, University Division, `Minister of Science and ICT Award`🎖️ [**Link**](https://biz.heraldcorp.com/article/10520546)
 - 2024
   - **1st Place at Hanyang University**, `22nd TOPCIT`, University Division
   - **1st Place**, `2024 HY-THON` (Intra-University Alliance Hackathon)
