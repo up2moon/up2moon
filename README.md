@@ -13,9 +13,9 @@
 
 ### ✈️ International Experience
 
-- **Awarded U.S. training for TOPCIT** _(2023, 2025)_
+- **Awarded U.S. training for TOPCIT** _(2023, 2025, 2026 scheduled)_
 
-  - Attended CES _(2023, 2025, 2026 scheduled)_ and visited tech companies
+  - Attended CES and visited tech companies
 
 ### 🏆 Awards
 
