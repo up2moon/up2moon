@@ -9,12 +9,12 @@
 
 - **Research Intern**, SysSec Lab, KAIST _(Jul 2025 – Aug 2025)_
 
-  - Set up and performed basic experiments with Baidu Apollo (autonomous driving) and a USRP-based LTE testbed (cellular security)
-  - Tested remote control experiments with the Unitree Go2 via WebRTC
+  - Set up and performed basic experiments in autonomous driving (Apollo) and cellular security (USRP)
+  - Explored remote control on a quadruped robot (Unitree Go2) via WebRTC for real-time communication
   - Reviewed security research papers and technical reports
 
 - **Technical Sergeant**, Logistics Command, ROK Air Force _(Oct 2019 – Oct 2023)_
-  - Developed and maintained web and IoT applications for military internet and intranet systems as a full-stack developer
+  - Developed and maintained web and IoT applications for military internet and intranet systems
   - Designed and implemented relational databases, optimizing schema for reliability and performance
   - Performed vulnerability assessments and implemented mitigation strategies
   - Contributed to server operations, maintenance, and end-user technical support
