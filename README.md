@@ -9,7 +9,7 @@
 
 - **Research Intern**, SysSec Lab, KAIST _(Jul 2025 – Aug 2025)_
 
-  - Set up and performed basic experiments in autonomous driving (Apollo) and cellular security (USRP)
+  - Set up and performed basic experiments in autonomous driving (Apollo) and cellular security (srsRAN)
   - Explored remote control on a quadruped robot (Unitree Go2) via WebRTC for real-time communication
   - Reviewed security research papers and technical reports
 
