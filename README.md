@@ -23,9 +23,9 @@
 
 - **TOPCIT (Test Of Practical Competency in IT)**
 
-  - **1st Place** (Univ. Students, Nationwide), `23rd TOPCIT`, **Minister of Science and ICT Award**🎖️ [**Link**](https://www.newshyu.com/news/articleView.html?idxno=1019453) _(Scheduled for Nov 2025)_
-  - **1st Place** (Univ. Students, Nationwide), `21st TOPCIT`, **Minister of Science and ICT Award**🎖️ [**Link**](https://www.ajunews.com/view/20240717170622813) _(Jul 2024)_
-  - **1st Place** (Air Force Members, Nationwide), `18th TOPCIT` _(Dec 2022)_
+  - **1st Place** (Nationwide, Univ. Students), `23rd TOPCIT`, **Minister of Science and ICT Award**🎖️ [**Link**](https://www.newshyu.com/news/articleView.html?idxno=1019453) _(Scheduled for Nov 2025)_
+  - **1st Place** (Nationwide, Univ. Students), `21st TOPCIT`, **Minister of Science and ICT Award**🎖️ [**Link**](https://www.ajunews.com/view/20240717170622813) _(Jul 2024)_
+  - **1st Place** (Nationwide, Air Force Members), `18th TOPCIT`, **ROK Air Force Chief of Staff Award** _(Dec 2022)_
   - Received U.S. training as part of the TOPCIT prize and attended CES 2023, 2025, and 2026 (scheduled)
 
 - **Hackathons & Competitions**
