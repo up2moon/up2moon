@@ -26,7 +26,8 @@
   - **1st Place** (Nationwide, Univ. Students), `23rd TOPCIT`, **Minister of Science and ICT Award**🎖️ [**Link**](https://www.newshyu.com/news/articleView.html?idxno=1019453) _(Scheduled for Nov 2025)_
   - **1st Place** (Nationwide, Univ. Students), `21st TOPCIT`, **Minister of Science and ICT Award**🎖️ [**Link**](https://www.ajunews.com/view/20240717170622813) _(Jul 2024)_
   - **1st Place** (Nationwide, Air Force Members), `18th TOPCIT`, **ROK Air Force Chief of Staff Award** _(Dec 2022)_
-  - Received U.S. training as part of the TOPCIT prize and attended CES 2023, 2025, and 2026 (scheduled)
+
+    Received U.S. training and attended CES 3 times through the TOPCIT prize (2 completed, 1 upcoming)
 
 - **Hackathons & Competitions**
   - **1st Place**, `2024 HY-THON` (University Hackathon) _(Dec 2024)_
