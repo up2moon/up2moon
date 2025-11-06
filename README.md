@@ -30,12 +30,13 @@
     Received U.S. training and attended CES 3 times through the TOPCIT prize (2 completed, 1 upcoming)
 
 - **Hackathons & Competitions**
+  - **1st Place**, `SUMTECH Hackathon 2025` [**Link**](https://news.unn.net/news/articleView.html?idxno=585877) _(Oct 2025)_
   - **1st Place**, `2024 HY-THON` (University Hackathon) _(Dec 2024)_
   - **3rd Place**, `44th Air Force ICT Competition (CTF)` _(Oct 2022)_
 
 ### 🚩 Activities
 
-- **Student Mentor, 2024 SW Together Hackathon** _(Nov 23–24, 2024)_
+- **Student Mentor, 2024 SW Together Hackathon** _(Nov 2024)_
 
   - Offered technical coaching sessions for middle and high school participants
   - Served as a judge in the final round
