@@ -3,7 +3,7 @@
 ### 🎓 Education
 
 - B.S. in Computer Science, Hanyang University ERICA _(Mar 2023 – Feb 2026 (Expected))_
-- B.E. in Computer Engineering, Academic Credit Bank System _(Dec 2021 – Feb 2023)_
+  - _Transferred after receiving a B.E. in Computer Engineering (ACBS, Korea)._
 
 ### 💼 Work Experience
 
