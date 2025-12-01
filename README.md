@@ -27,7 +27,7 @@
   - **1st Place** (Nationwide, Univ. Students), `21st TOPCIT`, **Minister of Science and ICT Award**🎖️ [**Link**](https://www.ajunews.com/view/20240717170622813) _(Jul 2024)_
   - **1st Place** (Nationwide, Air Force Members), `18th TOPCIT`, **ROK Air Force Chief of Staff Award** _(Dec 2022)_
 
-    Received U.S. training and attended CES 3 times through the TOPCIT prize (2 completed, 1 upcoming)
+    Received U.S. training and attended CES 3 times as a TOPCIT top scorer (2 completed, 1 upcoming)
 
 - **Hackathons & Competitions**
   - **1st Place**, `SUMTECH Hackathon 2025` [**Link**](https://news.unn.net/news/articleView.html?idxno=585877) _(Oct 2025)_
