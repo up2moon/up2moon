@@ -3,7 +3,7 @@
 ### 🎓 Education
 
 - BS in Computer Science, Hanyang University ERICA _(Mar 2023 – Feb 2026)_  
-  &nbsp;&nbsp;&nbsp;&nbsp;_Transferred after receiving a BE in Computer Engineering (ACBS, Korea)_
+  \- _Transferred after receiving a BE in Computer Engineering (ACBS, Korea)_
 
 ### 💼 Work Experience
 
@@ -26,7 +26,7 @@
   - **1st Place** (Nationwide, Univ. Students), `23rd TOPCIT`, **Minister of Science and ICT Award**🎖️ [**Link**](https://www.newshyu.com/news/articleView.html?idxno=1019453) _(Dec 2025)_
   - **1st Place** (Nationwide, Univ. Students), `21st TOPCIT`, **Minister of Science and ICT Award**🎖️ [**Link**](https://www.ajunews.com/view/20240717170622813) _(Jul 2024)_
   - **1st Place** (Nationwide, Air Force Members), `18th TOPCIT`, **ROK Air Force Chief of Staff Award** _(Dec 2022)_  
-    &nbsp;&nbsp;&nbsp;&nbsp;_Completed U.S. training and attended CES 3 times as a TOPCIT top scorer_
+    \- _Completed U.S. training and attended CES 3 times as a TOPCIT top scorer_
 
 - **Hackathons & Competitions**
   - **1st Place**, `SUMTECH Hackathon 2025` [**Link**](https://news.unn.net/news/articleView.html?idxno=585877) _(Oct 2025)_
